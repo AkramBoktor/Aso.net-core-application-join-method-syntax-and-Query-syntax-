@@ -1,0 +1,13 @@
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\obj\Debug\netcoreapp3.1\Video LinQ 2.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\obj\Debug\netcoreapp3.1\Video LinQ 2.AssemblyInfoInputs.cache
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\obj\Debug\netcoreapp3.1\Video LinQ 2.AssemblyInfo.cs
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\obj\Debug\netcoreapp3.1\Video LinQ 2.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\bin\Debug\netcoreapp3.1\Video LinQ 2.exe
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\bin\Debug\netcoreapp3.1\Video LinQ 2.deps.json
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\bin\Debug\netcoreapp3.1\Video LinQ 2.runtimeconfig.json
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\bin\Debug\netcoreapp3.1\Video LinQ 2.runtimeconfig.dev.json
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\bin\Debug\netcoreapp3.1\Video LinQ 2.dll
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\bin\Debug\netcoreapp3.1\Video LinQ 2.pdb
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\obj\Debug\netcoreapp3.1\Video LinQ 2.dll
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\obj\Debug\netcoreapp3.1\Video LinQ 2.pdb
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 2\Video LinQ 2\obj\Debug\netcoreapp3.1\Video LinQ 2.genruntimeconfig.cache
